@@ -32,7 +32,7 @@ Screenshot in --> https://imgur.com/a/iNuksep
 
 ### Links
 
-- Solution URL: [https://github.com/OrderSummaryComponentMain/]
+- Solution URL: [https://github.com/JosephVTX/OrderSummaryComponentMain/]
 - Live URL: [https://josephvtx.github.io/OrderSummaryComponentMain/]
 ## My process
 
