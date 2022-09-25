@@ -32,8 +32,8 @@ Screenshot in --> https://imgur.com/a/iNuksep
 
 ### Links
 
-- Solution URL: [https://github.com/JoshMooner/OrderSummaryComponentMain]
-
+- Solution URL: [https://github.com/OrderSummaryComponentMain/]
+- Live URL: [https://josephvtx.github.io/OrderSummaryComponentMain/]
 ## My process
 
 ### Built with
@@ -69,12 +69,3 @@ display: flex.
 ### Useful resources
 
 - [Example resource 1](https://www.frontendmentor.io/solutions/i-did-it-with-flexbox-FYBF4gZh8) - This helped me beacuse it was an example or a template to me. In the code I can find solutions and ways to do what I want. I really liked this pattern.
-
-## Author
-
-- Website - [JoshMooner](https://github.com/JoshMooner)
-- Frontend Mentor - [@JoshMoooner](https://www.frontendmentor.io/profile/JoshMooner)
-
-## Acknowledgments
-
-Use another solution to understand how keep coding when you don't know how to do it and when you get troubles. Search for the solution of this challege helped me a lot. You can use this one.
